@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.first,
+.secound {
+	font-size: 28px;
+	font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+.first {
+	background-color: slategray;
+	color: blanchedalmond;
+}
+.secound {
+	background-color: sandybrown;
+}
