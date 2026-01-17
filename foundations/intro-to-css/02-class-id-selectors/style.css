@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.odd {
+	background-color: lightcoral;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.font_size {
+	font-size: 24px;
+}
+
+#blue {
+	color: blue;
+	font-size: 36px;
+}
+#green {
+	background-color: lightgreen;
+	font-weight: bold;
+}
